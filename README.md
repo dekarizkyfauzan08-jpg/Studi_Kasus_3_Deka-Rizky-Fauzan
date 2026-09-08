@@ -119,4 +119,6 @@ Nilai yang lebih besar atau sama dengan 65 masuk ke kelompok Lulus, sedangkan ni
 Program juga dapat menghapus satu nilai yang salah dimasukkan. Dalam program ini digunakan Tuple dan List sebagai struktur data sesuai dengan materi dasar pemrograman Python.
 
 # ss output program
+<img width="907" height="862" alt="image" src="https://github.com/user-attachments/assets/cf608a09-bdbd-4842-9e82-76cdfe0900de" />
+
 <img width="1092" height="761" alt="image" src="https://github.com/user-attachments/assets/afa949f8-06f1-4a79-bd20-9393f63e762e" />
