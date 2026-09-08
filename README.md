@@ -83,9 +83,13 @@ Contoh Input
 Nilai yang dimasukkan:
 
 80
+
 55
+
 70
+
 60
+
 90
 
 selesai
