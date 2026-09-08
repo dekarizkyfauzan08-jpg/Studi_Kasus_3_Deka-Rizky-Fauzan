@@ -2,25 +2,29 @@
 
 ## Identitas
 
-Nama: [Deka Rizky Fauzan]  
-NIM: [2609116052]  
-Kelas: [B]
+Nama: [Deka Rizky Fauzan]
+
+NIM: [2609116052]
+
+Kelas: [**Isi Kelas Kamu**]
+
+---
 
 ## Deskripsi Program
 
 Program ini dibuat untuk mengelompokkan nilai ujian mahasiswa menjadi dua kelompok, yaitu **Lulus** dan **Remedi**.
 
-Batas nilai yang digunakan adalah 65. Jika nilai mahasiswa lebih dari atau sama dengan 65, maka masuk ke kelompok Lulus. Jika nilai kurang dari 65, maka masuk ke kelompok Remedi.
+Batas nilai yang digunakan adalah 65. Jika nilai mahasiswa lebih besar atau sama dengan 65, maka nilai tersebut masuk ke kelompok Lulus. Jika nilainya kurang dari 65, maka masuk ke kelompok Remedi.
 
-Program dapat menerima nilai secara berulang sampai pengguna mengetik `selesai`.
+Program menggunakan **Tuple** untuk menyimpan batas nilai dan **List** untuk menyimpan nilai yang dimasukkan serta hasil pengelompokan nilai.
 
-## List dan Tuple yang Digunakan
+---
 
-Program menggunakan Tuple dan List sebagai berikut:
+## Struktur Data yang Digunakan
+
+### 1. Tuple
+
+Tuple digunakan untuk menyimpan batas nilai.
 
 ```python
 batas_nilai = (65, 100)
-
-nilai_masuk = []
-lulus = []
-remedi = []
