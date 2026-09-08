@@ -2,9 +2,9 @@
 
 ## Identitas
 
-Nama: [Nama Lengkap]  
-NIM: [NIM]  
-Kelas: [Kelas]
+Nama: [Deka Rizky Fauzan]  
+NIM: [2609116052]  
+Kelas: [B]
 
 ## Deskripsi Program
 
