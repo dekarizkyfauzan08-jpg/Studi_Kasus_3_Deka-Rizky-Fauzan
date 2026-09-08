@@ -1,16 +1,16 @@
-# Studi Kasus 3 - Pengelompokan Nilai Ujian Mahasiswa
+# Studi_Kasus_3_Pengelompokan Nilai Ujian Mahasiswa
 
-## Identitas
+# identitas
 
 Nama: [Deka Rizky Fauzan]
 
 NIM: [2609116052]
 
-Kelas: [**Isi Kelas Kamu**]
+Kelas: [B]
 
 ---
 
-## Deskripsi Program
+# Deskripsi Program
 
 Program ini dibuat untuk mengelompokkan nilai ujian mahasiswa menjadi dua kelompok, yaitu **Lulus** dan **Remedi**.
 
@@ -20,7 +20,7 @@ Program menggunakan **Tuple** untuk menyimpan batas nilai dan **List** untuk men
 
 ---
 
-## Struktur Data yang Digunakan
+# Struktur Data yang Digunakan
 
 ### 1. Tuple
 
