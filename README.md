@@ -1,6 +1,6 @@
 # Studi_Kasus_3_Pengelompokan Nilai Ujian Mahasiswa
 
-# identitas
+# Identitas
 
 Nama: Deka Rizky Fauzan
 
