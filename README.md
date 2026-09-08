@@ -28,8 +28,11 @@ python
 batas_nilai = (65, 100)
 # 2. List
 nilai_masuk = []
+
 lulus = []
+
 remedi = []
+
 nilai_masuk digunakan untuk menyimpan semua nilai yang dimasukkan.
 lulus digunakan untuk menyimpan nilai yang lebih besar atau sama dengan 65.
 remedi digunakan untuk menyimpan nilai yang kurang dari 65.
